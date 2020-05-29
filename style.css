@@ -1,0 +1,28 @@
+h3{
+    text-align: center;
+    margin: 10px;
+}
+#food{
+    font-size: 30px;
+    padding-left: 15px;
+}
+nav{
+    background-color: darkgray;
+    color: yellow;
+    height: 50px;
+}
+.col-lg-4,.col-md-6,.col-md-12 {
+    background-color: gray;
+    border: solid white 5px;
+}
+.dropdown{
+    float: right;
+}
+p{
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+.btn {
+    background-color: black;
+}
